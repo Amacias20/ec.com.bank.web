@@ -1,0 +1,15 @@
+include:
+ - project: web.guayaquil.bank/web.guayaquil.bank.cicd
+   ref: main
+   file:
+     - CI-CD-k8s-React.yaml
+
+stages:
+  - build
+  - release
+  - deploy
+
+variables:
+  PROJECT_NAME:  "web.guayaquil.bank"
+  GROUP_NAME: "web.guayaquil.bank"
+  MAJOR: 0

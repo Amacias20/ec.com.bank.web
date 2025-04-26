@@ -1,0 +1,8 @@
+{
+    "recoverPassword": "Recover Password",
+    "enterEmailToRecover": "Enter your email to reset your password",
+    "email": "Email",
+    "send": "Send",
+    "backToLogin": "Back to login",
+    "accountFound": "Account found"
+}

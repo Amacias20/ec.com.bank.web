@@ -1,0 +1,33 @@
+{
+    "active": "Activo",
+    "inactive": "Inactivo",
+    "status": "Estado",
+    "application": "Aplicación",
+    "save": "Guardar",
+    "cancel": "Cancelar",
+    "actions": "Acciones",
+    "search": "Consultar",
+    "filter": "Filtrar",
+    "clear": "Limpiar",
+    "userAvatar": "Avatar de usuario",
+    "myProfile": "Mi Perfil",
+    "logout": "Cerrar Sesión",
+    "footer": {
+      "copyright": "Copyright ©",
+      "rights": "Todos los derechos reservados."
+    },
+    "accept": "Aceptar",
+    "delete": "Eliminar",
+    "reject": "Rechazar",
+    "successProcess": "Proceso exitoso",
+    "confirmAction": "¿Está seguro/a que desea {{action}} este elemento?",
+    "custom": "Personalizado",
+    "today": "Hoy",
+    "yesterday": "Ayer",
+    "currentWeek": "Semana Actual",
+    "currentMonth": "Mes Actual",
+    "currentYear": "Año Actual",
+    "selectOption": "Seleccione una opción",
+    "customDate": "Fecha personalizada",
+    "noResultsFound": "No se encontró el valor solicitado"
+}

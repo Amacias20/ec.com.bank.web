@@ -1,0 +1,9 @@
+{
+  "welcome": "Welcome",
+  "enterCredentials": "Please enter your Diligentec credentials to continue",
+  "email": "Email",
+  "password": "Password",
+  "login": "Login",
+  "forgotPassword": "Forgot your password?",
+  "invalidCredentials": "Invalid credentials"
+} 

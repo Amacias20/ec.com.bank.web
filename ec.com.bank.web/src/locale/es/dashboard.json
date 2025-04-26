@@ -1,0 +1,26 @@
+{
+  "title": "Banco Guayaquil",
+  "subtitle": "Selecciona un módulo para comenzar",
+  "select": "Seleccionar",
+  "modules": {
+    "virtual-assistant": {
+      "name": "Asistente Virtual",
+      "description": "Consulta información financiera con el asistente virtual."
+    }
+  },
+  "logs": {
+    "title": "Mis últimos accesos",
+    "origin": "Origen",
+    "ip": "IP",
+    "now": "Ahora",
+    "hour": "h",
+    "day": "día",
+    "days": "días",
+    "month": "mes",
+    "months": "meses",
+    "loading": "Cargando...",
+    "noLogs": "No hay registros de acceso disponibles",
+    "unknown": "Desconocido",
+    "web": "Web"
+  }
+}

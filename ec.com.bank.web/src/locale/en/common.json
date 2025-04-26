@@ -1,0 +1,33 @@
+{
+    "active": "Active",
+    "inactive": "Inactive",
+    "status": "Status",
+    "application": "Application",
+    "save": "Save",
+    "cancel": "Cancel",
+    "actions": "Actions",
+    "search": "Query",
+    "filter": "Filter",
+    "clear": "Clear",
+    "userAvatar": "User Avatar",
+    "myProfile": "My Profile",
+    "logout": "Logout",
+    "footer": {
+      "copyright": "Copyright ©",
+      "rights": "All rights reserved."
+    },
+    "accept": "Accept",
+    "delete": "Delete",
+    "reject": "Reject",
+    "successProcess": "Successful process",
+    "confirmAction": "Are you sure you want to {{action}} this item?",
+    "custom": "Custom",
+    "today": "Today",
+    "yesterday": "Yesterday",
+    "currentWeek": "Current Week",
+    "currentMonth": "Current Month",
+    "currentYear": "Current Year",
+    "selectOption": "Select an option",
+    "customDate": "Custom date",
+    "noResultsFound": "No results found"
+}

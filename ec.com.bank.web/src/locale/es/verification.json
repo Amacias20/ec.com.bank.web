@@ -1,0 +1,12 @@
+{
+    "verification": "Verificación",
+    "codeSentToEmail": "Hemos enviado un código a tu correo:",
+    "cancel": "Cancelar",
+    "verify": "Verificar",
+    "noCodeReceived": "¿No ha recibido el código?",
+    "resendIn": "Volver a enviar en {{seconds}}s",
+    "resendCode": "Reenviar Código",
+    "checkSpamFolder": "Revisa la carpeta de correo no deseado",
+    "verificationSuccess": "Código de verificación exitoso",
+    "codeSent": "El código de verificación ha sido reenviado"
+}

@@ -1,0 +1,26 @@
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+.vscode
+
+# dependencies
+ec.com.bank.web/node_modules
+
+# testing
+ec.com.bank.web/coverage
+
+# production
+ec.com.bank.web/build
+ec.com.bank.web/dist
+
+
+# misc
+ec.com.bank.web/.DS_Store
+ec.com.bank.web/.env.local
+ec.com.bank.web/.env.development.local
+ec.com.bank.web/.env.test.local
+ec.com.bank.web/.env.production.local
+
+ec.com.bank.web/npm-debug.log*
+ec.com.bank.web/yarn-debug.log*
+ec.com.bank.web/yarn-error.log*
+ec.com.bank.web/.__mf__temp/*

@@ -1,0 +1,13 @@
+{
+    "title": "Two-Factor Authentication",
+    "codeSentToEmail": "We have sent a code to your email:",
+    "cancel": "Cancel",
+    "verify": "Verify",
+    "noCodeReceived": "Haven't received the code?",
+    "resendIn": "Resend in {{seconds}}s",
+    "resendCode": "Resend Code",
+    "checkSpamFolder": "Check your spam folder",
+    "verificationSuccess": "Verification code successful",
+    "verificationError": "Code verification is incorrect",
+    "codeSent": "The verification code has been resent"
+}

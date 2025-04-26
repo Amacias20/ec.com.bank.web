@@ -1,0 +1,9 @@
+{
+  "welcome": "Bienvenido",
+  "enterCredentials": "Porfavor, coloca las credenciales de Banco Guayaquil para continuar",
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "login": "Iniciar Sesión",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "invalidCredentials": "Credenciales incorrectas"
+}

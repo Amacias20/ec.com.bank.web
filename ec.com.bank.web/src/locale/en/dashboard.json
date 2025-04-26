@@ -1,0 +1,26 @@
+{
+  "title": "Banco Guayaquil",
+  "subtitle": "Select a module to begin",
+  "select": "Select",
+  "modules": {
+    "virtual-assistant": {
+      "name": "Virtual Assistant",
+      "description": "Consult financial information with the virtual assistant."
+    }
+  },
+  "logs": {
+    "title": "My recent access",
+    "origin": "Origin",
+    "ip": "IP",
+    "now": "Now",
+    "hour": "h",
+    "day": "day",
+    "days": "days",
+    "month": "month",
+    "months": "months",
+    "loading": "Loading...",
+    "noLogs": "No access records available",
+    "unknown": "Unknown",
+    "web": "Web"
+  }
+}
