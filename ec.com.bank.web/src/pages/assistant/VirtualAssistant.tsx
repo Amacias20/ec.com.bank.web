@@ -1,3 +1,4 @@
+import { AssistantService } from "services/Assitant/AssistantService"
 import { InputTextarea } from "primereact/inputtextarea"
 import { ToastError } from "components/Messages/Toast"
 import { useState, useRef, useEffect } from "react"
@@ -152,10 +153,10 @@ const VirtualAssistant = () => {
         textareaRef.current.style.height = "0px"
       }
       try {
-        const { response } = await interactiveChat(userMessage)
+        const response = await AssistantService(userMessage)
         setMessages((prevMessages) => [
           ...prevMessages,
-          { type: "ai", content: response },
+          { type: "ai", content: response.response },
         ])
 
       } catch (error) {
